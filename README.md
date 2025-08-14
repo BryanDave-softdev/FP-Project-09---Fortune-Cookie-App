@@ -10,5 +10,5 @@ Perfect for daily inspiration or just a bit of entertainment!
 🌈 Displays feel-good messages and wisdom bites
 
 ## 📷 Screenshot
-![Fortune Cookie App](fortune cookie app.PNG)
+![Fortune Cookie App](fortune-cookie-app.PNG)
 
