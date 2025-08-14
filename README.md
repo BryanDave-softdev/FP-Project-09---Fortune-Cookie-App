@@ -8,3 +8,7 @@ Perfect for daily inspiration or just a bit of entertainment!
 🖐️ User can choose to open another cookie or exit
 
 🌈 Displays feel-good messages and wisdom bites
+
+## 📷 Screenshot
+![Fortune Cookie App](fortune cookie app.PNG)
+
